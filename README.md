@@ -6,3 +6,4 @@
 활용 언어 : SQL / Python(Pandas, Scikit-learn), Streamlit
 
 위 프로젝트로 인한 목표: 이 서비스를 통해 쇼핑몰 매출이 어떤 방향성으로 오를 수 있는지에 관한 건
+
