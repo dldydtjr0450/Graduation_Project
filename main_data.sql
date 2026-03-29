@@ -10,7 +10,7 @@ CREATE TABLE Users (
 );
 
 -- 2. 상품 테이블 (Products)
--- 추천 시스템에서 성분, 카테고리 추천 결정하는 기준
+-- 추천 시스템에서 성분, 카테고리 추천 기준
 CREATE TABLE Products (
     product_id      INTEGER PRIMARY KEY AUTOINCREMENT, 
     product_name    TEXT NOT NULL,                  -- 상품명
