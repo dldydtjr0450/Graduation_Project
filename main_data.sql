@@ -41,4 +41,3 @@ CREATE TABLE Logs (
     event_date   DATETIME DEFAULT (datetime('now')), -- 발생 시간
     FOREIGN KEY (user_id) REFERENCES Users(user_id)
 );
-	
